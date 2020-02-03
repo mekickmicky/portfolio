@@ -1,0 +1,16 @@
+1580741669a:1:{s:10:"header.htm";a:6:{s:8:"fileName";s:10:"header.htm";s:7:"content";s:419:"==
+<div class="header-content">
+    <div class="header-content-inner">
+        <h1>CREATIVE</h1>
+        <hr>
+        <p>What inspires you? We all need some inspiration now and then. Life gets crazy and it’s easy to lose that spark. The simplest way for me to get inspired is to go outside and look up.</p>
+        <a href="#about" class="btn btn-primary btn-xl page-scroll">Find Out More</a>
+    </div>
+</div>";s:5:"mtime";i:1580725501;s:6:"markup";s:416:"<div class="header-content">
+    <div class="header-content-inner">
+        <h1>CREATIVE</h1>
+        <hr>
+        <p>What inspires you? We all need some inspiration now and then. Life gets crazy and it’s easy to lose that spark. The simplest way for me to get inspired is to go outside and look up.</p>
+        <a href="#about" class="btn btn-primary btn-xl page-scroll">Find Out More</a>
+    </div>
+</div>";s:4:"code";N;s:17:"_PARSER_ERROR_INI";s:0:"";}}
